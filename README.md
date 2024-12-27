@@ -1,5 +1,8 @@
 ## Hi there! 👋
 
+# About
+I am a 4th year Electrical Engineering student at McGill University. I am passionate about Artificial Intelligence and looking to dive deeper in the world of Machine Learning.
+
 <!--
 **redabaki/redabaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
