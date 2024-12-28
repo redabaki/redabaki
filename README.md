@@ -3,6 +3,9 @@
 ## About 😁
 I am a 4th year Electrical Engineering student at McGill University. I am passionate about Artificial Intelligence and looking to dive deeper in the world of Machine Learning. 🚀
 
+## Projects 📚
+1. [Street Object Detection](https://github.com/redabaki/Object-Detection)
+
 ## What I'm currently working on... 📈
 - Microsoft AI & ML Engineering Professional Certificate
 - Building deep learning models and neural networks using Keras, PyTorch, and TensorFlow.
