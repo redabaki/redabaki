@@ -12,7 +12,7 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 
 ## What I'm currently working on... 📈
 - Microsoft AI & ML Engineering Professional Certificate
-- Building deep learning models and neural networks using Keras, PyTorch, and TensorFlow.
+- Building deep learning models and neural networks using Keras, PyTorch, and TensorFlow
 
 ## Connect 🌍
 LinkedIn: [Reda Abdel Baki](https://www.linkedin.com/in/reda-abdel-baki-a450ab218/)
