@@ -5,7 +5,7 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 
 ## Projects 📚
 1. [Street Object Detection](https://github.com/redabaki/Object-Detection)
-2. [Street Object Detection](https://github.com/redabaki/Object-Detection) using [DeepSORT tracking algorithm](https://www.kaggle.com/code/nityampareek/using-deepsort-object-tracker-with-yolov5)
+2. [Video Analysis](https://github.com/redabaki/Video-Analysis) using [DeepSORT tracking algorithm](https://www.kaggle.com/code/nityampareek/using-deepsort-object-tracker-with-yolov5)
 
 ## Languages and Frameworks 🌀
 - Python, C, SQL
