@@ -6,6 +6,10 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 ## Projects 📚
 1. [Street Object Detection](https://github.com/redabaki/Object-Detection)
 
+## Languages and Frameworks 🌀
+- Python, C, SQL
+- Numpy, Pandas, Keras, PyTorch, Scikit-Learn, TensorFlow, BeatifulSoup, Matplotlib
+
 ## What I'm currently working on... 📈
 - Microsoft AI & ML Engineering Professional Certificate
 - Building deep learning models and neural networks using Keras, PyTorch, and TensorFlow.
