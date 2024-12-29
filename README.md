@@ -4,9 +4,9 @@
 I am a 4th year Electrical Engineering student at McGill University. I am passionate about Artificial Intelligence and looking to dive deeper in the world of Machine Learning. 🚀
 
 ## Projects 📚
-1. [Street Object Detection](https://github.com/redabaki/Object-Detection)
-2. [Video Analysis](https://github.com/redabaki/Video-Analysis) using [DeepSORT tracking algorithm](https://www.kaggle.com/code/nityampareek/using-deepsort-object-tracker-with-yolov5)
-3. [Falling Object Mini Game](https://github.com/redabaki/Falling-Object) using C and a CPUlator with VGA pixel buffer
+1. [<kbd>Street Object Detection</kbd>](https://github.com/redabaki/Object-Detection)
+2. [<kbd>Video Analysis</kbd>](https://github.com/redabaki/Video-Analysis)
+3. [<kbd>Falling Object Mini Game</kbd>](https://github.com/redabaki/Falling-Object)
 
 ## Languages and Frameworks 🌀
 - Python, C, SQL, Java, Matlab
