@@ -17,7 +17,7 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 - Building deep learning models and neural networks using Keras, PyTorch, and TensorFlow
 
 ## Connect 🌍
-LinkedIn: [Reda Abdel Baki](https://www.linkedin.com/in/reda-abdel-baki-a450ab218/)
+<kbd> <br> [LinkedIn](https://www.linkedin.com/in/reda-abdel-baki-a450ab218/) ↗️ <br> </kbd>
 
 <!--
 **redabaki/redabaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
