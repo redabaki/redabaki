@@ -9,7 +9,7 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 3. [Falling Object Mini Game](https://github.com/redabaki/Falling-Object) using C and a CPUlator with VGA pixel buffer
 
 ## Languages and Frameworks 🌀
-- Python, C, SQL
+- Python, C, SQL, Java, Matlab
 - Numpy, Pandas, Keras, PyTorch, Scikit-Learn, TensorFlow, BeatifulSoup, Matplotlib
 
 ## What I'm currently working on... 📈
