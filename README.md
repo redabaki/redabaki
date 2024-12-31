@@ -9,7 +9,7 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 3. [<kbd>Falling Object Mini Game</kbd>](https://github.com/redabaki/Falling-Object)
 
 ## Languages and Frameworks 🌀
-- Python, C, SQL, Java, Matlab
+- Python, C, Java, SQL, Matlab
 - Numpy, Pandas, Keras, PyTorch, Scikit-Learn, TensorFlow, BeatifulSoup, Matplotlib
 
 ## What I'm currently working on... 📈
