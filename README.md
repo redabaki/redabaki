@@ -8,7 +8,7 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 2. [<kbd>Video Analysis</kbd>](https://github.com/redabaki/Video-Analysis)
 3. [<kbd>Falling Object Mini Game</kbd>](https://github.com/redabaki/Falling-Object)
 
-## Languages and Frameworks 🌀
+## Languages and Frameworks 👾 
 - Python, C, Java, SQL, Matlab
 - Numpy, Pandas, Keras, PyTorch, Scikit-Learn, TensorFlow, BeatifulSoup, Matplotlib
 
@@ -16,7 +16,7 @@ I am a 4th year Electrical Engineering student at McGill University. I am passio
 - Microsoft AI & ML Engineering Professional Certificate
 - Building deep learning models and neural networks using Keras, PyTorch, and TensorFlow
 
-## Connect 🌍
+## Connect 📧
 <kbd> <br> [LinkedIn](https://www.linkedin.com/in/reda-abdel-baki-a450ab218/) ↗️ <br> </kbd>
 
 <!--
