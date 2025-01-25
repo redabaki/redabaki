@@ -1,23 +1,60 @@
-# Hi there! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=redabaki.redabaki" />
 
-## About 😁
-I am a 4th year Electrical Engineering student at McGill University. I am passionate about Artificial Intelligence and looking to dive deeper in the world of Machine Learning. 🚀
+<h1 align="center">
+  <a href=https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reda+Baki!;" />
+  </a>
+</h1>
 
-## Projects 📚
-1. [<kbd>Street Object Detection</kbd>](https://github.com/redabaki/Object-Detection)
-2. [<kbd>Video Analysis</kbd>](https://github.com/redabaki/Video-Analysis)
-3. [<kbd>Falling Object Mini Game</kbd>](https://github.com/redabaki/Falling-Object)
+<h3 align="center">I'm an Electrical Engineer currently applying skills to AI & ML 🚀 </h3>
 
-## Languages and Frameworks 👾 
-- Python, C, Java, SQL, Matlab
-- Numpy, Pandas, Keras, PyTorch, Scikit-Learn, TensorFlow, BeatifulSoup, Matplotlib
+<br/>
 
-## What I'm currently working on... 📈
-- Microsoft AI & ML Engineering Professional Certificate
-- Building deep learning models and neural networks using Keras, PyTorch, and TensorFlow
+<div align="center">
 
-## Connect 📧
-<kbd> <br> [LinkedIn](https://www.linkedin.com/in/reda-abdel-baki-a450ab218/) ↗️ <br> </kbd>
+📈 I'm currently working on a **stock price predictor**
+
+and the **Microsoft AI & ML Engineering Professional Certificate** 📒
+
+</div>
+
+<div align="center">
+  <a href="mailto:reda.h.baki@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"(#)>
+  </a>
+  <a href="https://in.linkedin.com/in/reda-abdel-baki" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)"(#)>
+  </a>
+  <a href="https://redabaki.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" (#)>
+  </a>
+</div>
+  
+  <hr/>
+
+<h2 align="center"> 👾 Languages-Frameworks-Tools 👾 </h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,java,matlab,pytorch,sklearn,tensorflow,azure,github,vscode&perline=5" />
+  </a>
+</div>
+
+  <hr/>
+
+<h2 align="center"> 📚 Projects 📚 </h2>
+<br/>
+<div align="center">
+  <a href="https://github.com/redabaki/Object-Detection">
+    <img src="https://img.shields.io/badge/Street Object Detection-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)" />
+  </a>
+  <a href="https://github.com/redabaki/Video-Analysis">
+    <img src="https://img.shields.io/badge/Video Analysis-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)" />
+  </a>
+  <a href="https://github.com/redabaki/Falling-Object">
+    <img src="https://img.shields.io/badge/Falling Object Mini Game-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)" />
+  </a>
+</div>
 
 <!--
 **redabaki/redabaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
