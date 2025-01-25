@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">I'm an Electrical Engineer currently applying skills to AI & ML 🚀 </h3>
+<h3 align="center">I'm an Electrical and Software Engineer currently applying skills to AI & ML 🚀 </h3>
 
 <br/>
 
