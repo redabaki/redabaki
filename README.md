@@ -12,7 +12,9 @@
 
 <div align="center">
 
-📈 I'm currently working on a **stock price predictor**
+📈 I'm currently working on a **stock price predictor**,
+
+**a machine learning model approach to movement dynamics**,
 
 and the **Microsoft AI & ML Engineering Professional Certificate** 📒
 
