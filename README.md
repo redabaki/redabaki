@@ -51,7 +51,7 @@ and the **Microsoft AI & ML Engineering Professional Certificate** 📒
   <a href="https://github.com/redabaki/Falling-Object">
     <img src="https://img.shields.io/badge/Falling Object Mini Game-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)" />
   </a>
-  <a href="https://github.com/redabaki/Falling-Object">
+  <a href="https://github.com/redabaki/Stock-Predictor">
     <img src="https://img.shields.io/badge/NVDA Stock Predictor-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)" />
   </a>
 </div>
